@@ -1,0 +1,21 @@
+body {
+  overscroll-behavior: none;
+  background-color: black;
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+}
+
+#profile {
+  width: 10%;
+}
+
+img {
+  width: 50%;
+}
+
+@media only screen and (orientation: portrait) {
+  img {
+    width: 100%;
+  }
+}
