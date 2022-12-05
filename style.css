@@ -15,6 +15,9 @@ img {
 }
 
 @media only screen and (orientation: portrait) {
+  #profile {
+    width: 30%;
+  }
   img {
     width: 100%;
   }
