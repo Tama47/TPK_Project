@@ -16,7 +16,7 @@ img {
 
 @media only screen and (orientation: portrait) {
   html {
-    zoom: 150%;
+    zoom: 200%;
   }
   #profile {
     width: 30%;
